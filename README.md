@@ -1,10 +1,9 @@
 
-  #Project Title
-   test
+  # Keltons ReadMe Generator
    ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description
-  test
+  This is a command line application that generates a professional ReadMe file 
 
   ## Table of Contents
   * [Installation](#installation)
@@ -15,22 +14,21 @@
   * [Questions](#Contact-Information)
 
   ## Installation
-  test
+  To use this app you must have node, and the inquirer package installed.
 
   ## Usage
-  test
+  Here is a video of the user flow and usage:
 
-  ## License
-  ## License
+   ## License
       This project is licensed under the MIT license.
 
   ## Contributing
-  test
+  Fork code and edit using VS code.
 
   ## Tests
-  test
+  none
 
-  ## Contact Information
-  * GitHub: Keltonsterett
-  * Email: Keltonsterett24@gmail.com
+  ## Questions
+  If you have any questions about the repo, open an issue or contact me directly at Keltonsterett24@gmail.com. You can find more of my work by looking at my repositories on github.
+   Github Username: Keltonsterett
 
