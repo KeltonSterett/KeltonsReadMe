@@ -18,6 +18,7 @@
 
   ## Usage
   Here is a video of the user flow and usage:
+  click this link to view the video: https://drive.google.com/file/d/10tGE34q7DxTqkQibd3p_MwHGRoPAX8bJ/view
 
    ## License
       This project is licensed under the MIT license.
